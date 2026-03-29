@@ -1,4 +1,16 @@
-# digital-litracy-project
+# Digital Literacy Project
+
+## Student Details
+**Name:** Manali Soni  
+**Registration Number:** 25BCE10898  
+**Course:** B.Tech CSE Core  
+**Course Code:** CSE0001     
+**Institution:** VIT Bhopal University 
+
+---
+
+## Project Overview
+
 This project is part of the **Student Digital Ambassador task**. It aims to create a one-page visual resource explaining digital literacy and its importance.
 
 The project is divided into five modules, each focusing on a specific aspect of digital literacy and practical application.
@@ -83,4 +95,3 @@ The project is divided into five modules, each focusing on a specific aspect of 
 ## Conclusion
 
 This task strengthened my digital literacy by combining practical tool usage with real-world application. It provided hands-on experience in creating, sharing, and analyzing online content responsibly.
-
